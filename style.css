@@ -1,5 +1,5 @@
 body {
-    background-color: #b3b3b3;
+    background-color: #fcb75e;
     text-align: center;
 }
 
@@ -21,7 +21,6 @@ section {
     border:rgb(36, 191, 238)1px solid;
     padding: 20px 0px; 
     margin: 20px 150px;
-   
 }
 .section_first{
     background-color:rgb(77, 170, 199);
