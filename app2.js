@@ -5,5 +5,5 @@ function getUserMusic(){
 let userMusicPref1 = getUserMusic();
 let userMusicPref2 = getUserMusic();
 let userMusicPref3 = getUserMusic();
-document.write('<h3> I like ' + userMusicPref1 + ', ' + userMusicPref2 + ', ' + userMusicPref3 + '</h3>');
+document.write('<h2> I like ' + userMusicPref1 + ', ' + userMusicPref2 + ', ' + userMusicPref3 + '</h2>');
 
