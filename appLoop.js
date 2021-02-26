@@ -11,3 +11,10 @@ let correctAnser = 4;
     if (i==1){
       alert('You do not have any more attempts(((')}
     }
+
+let userFav = prompt('Rate this site on scale 1-5');
+    for(i = userFav; i>0; i--){
+      document.write('<img src="http://clipart-library.com/images/kTMb8beEc.png">');}
+      
+    
+    
