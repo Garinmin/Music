@@ -14,7 +14,7 @@ let correctAnser = 4;
 
 let userFav = prompt('Rate this site on scale 1-5');
     for(i = userFav; i>0; i--){
-      document.write('<img src="http://clipart-library.com/images/kTMb8beEc.png">');}
+      document.write('<img src="http://clipart-library.com/images/LidjRjG7T.jpg">');}
       
     
-    
+      /* http://clipart-library.com/images/kTMb8beEc.png */
